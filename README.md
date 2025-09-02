@@ -74,6 +74,44 @@ A list of all need_id in the Needs table, with statuses and organizations assign
 
 <br/></details>
 
+## Measures
+
+TicketCount: Value passed to another measure.  A simple count of need_id to be used in context.
+
+TopOrg: Value used as a flag in a filter to return the organization with the most need_id responded to.  The visual used separates by category.
+
 ## Visualization
 
+<table>
+ <tr>
+  <td>
+   The <strong>Platforms</strong> page shows the total number of needs submitted for each platform and category by using two clustered column charts.
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <img src="" width="642">
+  </td>
+ </tr>
+</table>
 
+<br/>
+
+<table>
+ <tr>
+  <td>
+   The <strong>Organizations</strong> page shows the number of tickets responded to by each organization.<br>
+   <br>
+   A matrix with conditional data bars shows the organization in each category with the most needs responded to.<br>
+   <br>
+   A bar chart shows all organizations sorted by the number of needs responded to.
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <img src="" width="642">
+  </td>
+ </tr>
+</table>
+
+<br/>
