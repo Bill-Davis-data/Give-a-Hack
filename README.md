@@ -90,7 +90,7 @@ TopOrg: Value used as a flag in a filter to return the organization with the mos
  </tr>
  <tr>
   <td>
-   <img src="" width="642">
+   <img src="https://github.com/Bill-Davis-data/Give-a-Hack/blob/main/Platforms.png" width="642">
   </td>
  </tr>
 </table>
@@ -109,7 +109,7 @@ TopOrg: Value used as a flag in a filter to return the organization with the mos
  </tr>
  <tr>
   <td>
-   <img src="" width="642">
+   <img src="https://github.com/Bill-Davis-data/Give-a-Hack/blob/main/Organizations.png" width="642">
   </td>
  </tr>
 </table>
